@@ -1,2 +1,3 @@
-# notes-book-prm
-Notes from the book Production Ready Microservices
+# Production-Ready Microservices
+
+* [Amazon](https://www.amazon.com/Production-Ready-Microservices-Susan-Fowler/dp/1491965975)
